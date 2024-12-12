@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Salman Ali!
 
-<!--
-**gsalmanali/gsalmanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I hold a PhD in Computer Science from Michigan State University, where I focused on building distributed collaboration frameworks for the beef supply chain.
 
-Here are some ideas to get you started:
+💻 I'm passionate about:
+- Distributed and decentralized applications
+- Blockchain, Web 3.0, and Federated Learning
+- Teaching and mentoring in computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Achievements:
+- Best Paper Award at ISNCC 2024
+- Presented research internationally and across MSU departments
+
+🌱 Currently, I’m exploring AI applications for complex supply chains in collaboration with Professor Cedric Gondro in the Animal Sciences Department at MSU, while also building my skills in cloud computing, DevOps, solutions architecture, and network security within the Azure ecosystem.
+
+📫 Reach me at:
+- **Email:** [tsalmanaliy@gmail.com](tsalmanaliy@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nsalmanali](https://linkedin.com/in/nsalmanali)
+
+✨ Fun Fact: In my free time, I enjoy hiking and exploring nature, as well as creating fun social media reels to share those experiences.
