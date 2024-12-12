@@ -5,11 +5,13 @@
 💻 I'm passionate about:
 - Distributed and decentralized applications
 - Blockchain, Web 3.0, and Federated Learning
+- Security aspects of networks and applications
 - Teaching and mentoring in computer science
 
 🏆 Achievements:
 - Best Paper Award at ISNCC 2024
 - Presented research internationally and across MSU departments
+- Awarded multiple fellowships throughout my PhD.
 
 🌱 Currently, I’m exploring AI applications for complex supply chains in collaboration with Professor Cedric Gondro in the Animal Sciences Department at MSU, while also building my skills in cloud computing, DevOps, solutions architecture, and network security within the Azure ecosystem.
 
