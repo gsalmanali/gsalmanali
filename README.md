@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salman Ali!
 
-🎓 I hold a PhD in Computer Science from Michigan State University, where I focused on building distributed collaboration frameworks for the beef supply chain.
+🎓 I hold a PhD in Computer Science from Michigan State University, where I focused on building distributed and decentralized collaboration frameworks for complex supply chains. My work focused on enhancing traceability, transparency, and addressing climate issues, particularly in the beef supply chain.
 
 💻 I'm passionate about:
 - Distributed and decentralized applications
