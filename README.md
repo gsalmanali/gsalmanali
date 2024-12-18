@@ -9,7 +9,7 @@
 - Security aspects of networks and applications
 - Teaching and mentoring in computer science
 
-🏆 Achievements:
+🏆 Recent Achievements:
 - Best Paper Award at ISNCC 2024
 - Presented research internationally and across MSU departments
 - Awarded multiple fellowships throughout my PhD
