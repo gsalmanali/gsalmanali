@@ -21,4 +21,4 @@
 - **Email:** [tsalmanaliy@gmail.com](tsalmanaliy@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nsalmanali](https://linkedin.com/in/nsalmanali)
 
-✨ Fun Fact: In my free time, I enjoy hiking and exploring nature, as well as creating fun social media [reels](https://www.instagram.com/tsalmanaliy/#) to share those experiences. 
+✨ Fun Fact: In my free time, I enjoy hiking and exploring nature, as well as creating fun social media reels to share those experiences. 
