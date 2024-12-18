@@ -4,7 +4,8 @@
 
 💻 I'm passionate about:
 - Distributed and decentralized applications
-- Blockchain, Web 3.0, and Federated Learning
+- Blockchain and Web 3.0
+- Data Federation and Federated Learning 
 - Security aspects of networks and applications
 - Teaching and mentoring in computer science
 
@@ -14,10 +15,10 @@
 - Awarded multiple fellowships throughout my PhD
 - Extensive teaching experience, including instructing from basic programming to advanced full-stack web development and object-oriented programming
 
-🌱 Currently, I’m exploring AI applications for complex supply chains in collaboration with Professor Cedric Gondro in the Animal Sciences Department at MSU, while also building my skills in cloud computing, DevOps, solutions architecture, and network security within the Azure ecosystem.
+🌱 Currently, I’m exploring AI applications for complex supply chain networks under Professor Cedric Gondro in the Animal Sciences Department at MSU. 
 
 📫 Reach me at:
 - **Email:** [tsalmanaliy@gmail.com](tsalmanaliy@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nsalmanali](https://linkedin.com/in/nsalmanali)
 
-✨ Fun Fact: In my free time, I enjoy hiking and exploring nature, as well as creating fun social media reels to share those experiences.
+✨ Fun Fact: In my free time, I enjoy hiking and exploring nature, as well as creating fun social media [reels](https://www.instagram.com/tsalmanaliy/#) to share those experiences. 
