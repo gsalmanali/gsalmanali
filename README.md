@@ -18,7 +18,7 @@
 🌱 Currently, I’m exploring AI applications for complex supply chain networks under Professor Cedric Gondro in the Animal Sciences Department at MSU. 
 
 📫 Reach me at:
-- **Email:** tsalmanaliy AT gmail DOT com
+- **Email:** txsalmanali AT gmail DOT com
 - **LinkedIn:** [linkedin.com/in/nsalmanali](https://linkedin.com/in/nsalmanali)
 
 ✨ Fun Fact: In my free time, I enjoy hiking and exploring nature, as well as immersing myself in culture, traditions, and food, and capturing these experiences through creative outlets.
